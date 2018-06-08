@@ -1,0 +1,27 @@
+div {
+	float: left;
+	margin: 30px;
+	width: 35%;
+}
+
+img {
+	border-radius: 15px;
+	border-right: 2px solid black;
+	width: 100%;
+}
+
+.line1 {
+	text-transform: uppercase;
+	color: red;
+	font-size: 12px;
+}
+
+.main {
+	font-size: 16px;
+	font-style: bold;
+}
+
+.price {
+	font-size: 14px;
+	color: 
+}

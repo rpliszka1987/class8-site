@@ -1,0 +1,1 @@
+This is a practice from class 8 for layouts of a web page.
